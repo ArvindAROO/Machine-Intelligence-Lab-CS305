@@ -1,6 +1,5 @@
 # Machine-Intelligence-Lab-CS305
 
-
 The compilation of all the code an drelated files from MI-Lab UE19CS305 (of batch 2019-2023) offered by PES University
 
 ## Instructions to run the code
